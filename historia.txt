@@ -1,7 +1,11 @@
-Esta es la historia de aprendizaje de Git
+Esta es la historia de aprendizaje de Git Hub
 
-jaja estamos aprendiendo a realizar proyectos colaborativos
+estamos aprendiendo a realizar proyectos colaborativos pero seriamente
 
-estoy trabajando con una maquina virtual mas para poder interactuar
+voy trabajando con una maquina virtual kali linux para poder interactuar
+
+entre estas 2 cuentas, y lo hago en kali porque tambien estoy estudiando
+
+en paralelo en seguridad informática. Bueno volviendo al tema es
 
 como si estuviera en un equipo de trabajo de 2.
