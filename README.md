@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f31a:
+# Hyperblog 😎😎:
 Empezando un blog con el curso de [Git y Github](https://platzi.com/clases/git-github/ "Git y Github") de Platzi
 
 >El curso de Gut y GitHub de Platzi de verda fue un curso muy agradable, ahora puedo ver cómo trabajan remotamente en códigos distintos proyectos.
